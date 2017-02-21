@@ -16,7 +16,7 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias dotenv='. env/bin/activate'
 alias vi='vim'
-alias rm='du'
+alias rm='rm -i'
 
 export EDITOR="vim"
 
